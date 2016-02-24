@@ -1,4 +1,4 @@
-# babel-preset-es2015-testcafe-hammerhead
+# babel-preset-es2015-hammerhead
 
 Copies the [babel-preset-es2015-loose] preset excluding the [babel-plugin-transform-es2015-typeof-symbol] plugin.
 
