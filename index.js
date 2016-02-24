@@ -3,6 +3,7 @@ var modify = require('modify-babel-preset');
 var LOOSE = {loose: true};
 
 module.exports = modify('es2015', {
+    'babel-plugin-transform-es2015-typeof-symbol': false,
     'transform-es2015-template-literals': LOOSE,
     'transform-es2015-classes': LOOSE,
     'transform-es2015-computed-properties': LOOSE,
