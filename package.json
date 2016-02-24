@@ -1,5 +1,5 @@
 {
-  "name": "babel-preset-es2015-testcafe-hammerhead",
+  "name": "babel-preset-es2015-hammerhead",
   "version": "0.0.1",
   "description": "Copies the 'babel-preset-es2015-loose' preset excluding the 'babel-plugin-transform-es2015-typeof-symbol' plugin.",
   "authors": [
@@ -9,7 +9,7 @@
   ],
   "homepage": "https://babeljs.io/",
   "license": "MIT",
-  "repository": "https://github.com/churkin/babel-preset-es2015-testcafe-hammerhead",
+  "repository": "https://github.com/churkin/babel-preset-es2015-hammerhead",
   "main": "index.js",
   "scripts": {
     "test": "node ./test | tap-spec"
