@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-es2015-hammerhead",
   "version": "0.0.1",
-  "description": "Copies the 'babel-preset-es2015-loose' preset excluding the 'babel-plugin-transform-es2015-typeof-symbol' plugin.",
+  "description": "Copies the 'babel-preset-es2015-loose' preset without the 'babel-plugin-transform-es2015-typeof-symbol' plugin.",
   "authors": [
     "Andrey Churkin <alam17@mail.ru>",
     "Brandon Konkle <brandon@konkle.us>",
