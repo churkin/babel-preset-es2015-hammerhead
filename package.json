@@ -1,14 +1,15 @@
 {
-  "name": "babel-preset-es2015-loose",
-  "version": "7.0.0",
-  "description": "Babel preset for all es2015 plugins, with loose mode enabled where available.",
+  "name": "babel-preset-es2015-testcafe-hammerhead",
+  "version": "0.0.1",
+  "description": "Copies the 'babel-preset-es2015-loose' preset excluding the 'babel-plugin-transform-es2015-typeof-symbol' plugin.",
   "authors": [
+    "Andrey Churkin <alam17@mail.ru>",
     "Brandon Konkle <brandon@konkle.us>",
     "Jason Miller <jason@developit.ca>"
   ],
   "homepage": "https://babeljs.io/",
   "license": "MIT",
-  "repository": "https://github.com/bkonkle/babel-preset-es2015-loose",
+  "repository": "https://github.com/churkin/babel-preset-es2015-testcafe-hammerhead",
   "main": "index.js",
   "scripts": {
     "test": "node ./test | tap-spec"
